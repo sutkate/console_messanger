@@ -130,6 +130,7 @@
     <ClCompile Include="ConsoleApplication3.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="chat.hpp" />
     <ClInclude Include="client.hpp" />
     <ClInclude Include="server.hpp" />
     <ClInclude Include="user.hpp" />
